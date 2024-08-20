@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="save">save</string>
+    <string name="search_image">search image</string>
+    <string name="image">image</string>
+    <string name="title">title</string>
+    <string name="error_saving_note">error saving note</string>
+    <string name="description">description</string>
+    <string name="sort_by_title">sort by title</string>
+    <string name="sort_by_date">sort by date</string>
+    <string name="add_a_note">add a note</string>
+    <string name="d">d</string>
+    <string name="t">t</string>
+    <string name="notes">notes</string>
+</resources>
